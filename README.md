@@ -1,6 +1,6 @@
 ```python
 # Define the content of the README file
-readme_content = """# 📱 Smart Calculator Project
+readme_content = """# Smart Calculator Project
 
 A clean, modern, and user-friendly calculator built to handle core mathematical operations with an intuitive interface. 
 
