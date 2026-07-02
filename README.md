@@ -4,19 +4,19 @@ readme_content = """# 📱 Smart Calculator Project
 
 A clean, modern, and user-friendly calculator built to handle core mathematical operations with an intuitive interface. 
 
-## ✨ Features
+##  Features
 
 * **Core Math Operations:** Seamlessly performs addition, subtraction, multiplication, and division.
 * **Precision Handling:** Full decimal support for precise calculations.
 * **Clear & Reset:** Instant clear (`C` / `AC`) functionality to reset the workspace.
 * **Responsive Layout:** Fully optimized for mobile, tablet, and desktop screens.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Front-end / Core:** HTML5, CSS3, JavaScript
 * **Alternative Core:** (Can easily be adapted for Python, C++, or Java backends)
 
-## 📦 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
@@ -48,14 +48,14 @@ cd calculator-project
 
 
 
-## 📌 How To Use
+##  How To Use
 
 1. Click or type the numbers to start entering your equation.
 2. Select your desired operator (`+`, `-`, `×`, `÷`).
 3. Press the `=` button or hit `Enter` on your keyboard to get the final result.
 4. Use the `C` button to clear the display screen.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -65,7 +65,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 """
